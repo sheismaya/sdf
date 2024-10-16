@@ -1,0 +1,39 @@
+th{
+    background-color: orange;
+    color: white;
+}
+tbody{
+    text-align: center;
+}
+span{
+    color: blue
+}
+div.movies{
+    background-color: aqua;
+    text-transform: uppercase;
+    text-align: center;
+}
+div.pteg{
+    background-color: grey;
+    
+}
+
+
+.movie, .pteg>p {
+    margin: 0;
+}
+
+.movies {
+    margin-top: 40px;
+}
+.son{
+
+}
+div.label{
+    color: rgb(6, 6, 151);
+}
+#sf{
+    color: white;
+    background-color: blue;
+    border: none;
+}
